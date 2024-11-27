@@ -32,6 +32,13 @@ The tests were performed on a machine with the following configurations:
 
 ## Important notes
 
-The application was developed and used only for scientific knowledge and research purposes. Commercial use is not allowed.
+The application was developed and used only for scientific knowledge and research purposes. 
 
 If you have any doubts, contact me by email: mbarborgess@gmail.com
+
+## Contributions
+• Authors: @voczie and @borgessbarbara
+• Advisors: Thaís Gaudêncio, Yuri Malheiros and Vinícius Maracajá-Coutinho. 
+• [Artificial Intelligence Applications (ARIA)](https://aria.ci.ufpb.br/) - Universidade Federal da Paraíba
+• [Bioinformatics Multidisciplinary Environment (BioME)](https://bioinfo.imd.ufrn.br/site) - Universidade Federal do Rio Grande do Norte
+• Integrative Bioinformatics @integrativebioinformatics - Universidad de Chile
