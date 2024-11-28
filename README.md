@@ -2,7 +2,7 @@
 
 ![Screenshot_1](https://github.com/user-attachments/assets/5a3dae12-349b-4273-9992-e3b5010219a2)
 
-GenomeChat is a chatbot able to perform analysis on genomic annotations. It generates python code using the gffutils library and the runs the analysis script on background. According to the user's query, GenomeChat will generate, run and explain the analysis scripts and results.
+GenomeChat is a chatbot able to perform analysis on genomic annotations. It generates python code using the [GFFUtils](https://gffutils.readthedocs.io/en/latest/) library and the runs the analysis script on background. Based on an engineered prompt, according to the user's query, GenomeChat will generate, run and explain the analysis scripts and results.
 
 This is a test application under development available for GenomeChat, based on the Large Language Model [Qwen2.5 7B](https://qwenlm.github.io/blog/qwen2.5/) pulled from [Ollama](https://ollama.com/library/qwen2.5:7b). The streamlit app was developed during my masters' classes on Machine Learning and Pattern Recognition. Unfortunately, the data and model are too heavy to run on streamlit site online, so I had to test it under my local environment.
 
